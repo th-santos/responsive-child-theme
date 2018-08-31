@@ -2,6 +2,8 @@
 
 **Responsive Child Theme** is a *WordPress Responsive App* based on the "[Responsive](https://wordpress.org/themes/responsive/)" theme.
 
+![](https://lh3.googleusercontent.com/ahkawx3O-4EUcGhkF6iQzr-gXy5frxa9FMXqXzse7gYns_ygNWwGK2Aiy0DdOZ9IGOeE8Sn_slyS)
+
 ## Motivation
 
 It was developed as a possible solution to Assignment 3 of BCIT's "[Android and Mobile Application Development Tools](https://www.bcit.ca/study/outlines/20182061793)" course. 
