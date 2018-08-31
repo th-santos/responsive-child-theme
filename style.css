@@ -1,0 +1,44 @@
+/*
+ Theme Name:   A01034486 THIAGO SANTOS
+ Description:  BCIT - COMP 2052 - Assignment 3
+ Author:       Thiago Santos
+ Template:     responsive
+*/
+
+#canvas-area {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+td {
+    min-width: 100px;
+}
+
+input[type=color] {
+    border: none;
+    display: inline-block;
+    padding: 0;
+    width: 1.5em;
+}
+
+.change-color {
+    vertical-align: inherit;
+}
+
+.input-hovered {
+    -webkit-box-shadow: 0 0 0 .2rem rgba(0,123,255,.25);
+            box-shadow: 0 0 0 .2rem rgba(0,123,255,.25);
+}
+
+.link-hovered {
+    color: #444444;
+}
+
+#clear-form {
+    text-align: center;
+}
+
+#pos-explanation {
+    margin: 0;
+}
