@@ -54,6 +54,6 @@ The following languages and web technologies were used to build this *WordPress 
  - MySQL
  - [randomColor](https://github.com/davidmerfield/randomColor) by [@davidmerfield](https://github.com/davidmerfield)
 
-## Contributors
+## Special thanks
 
-👏 Special thanks to [@alexandervolkov](https://www.linkedin.com/in/alexandervolkov/)
+👏  to [@alexandervolkov](https://www.linkedin.com/in/alexandervolkov/)
